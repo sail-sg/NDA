@@ -116,8 +116,8 @@ or the **validation set** (`val`).
 8. **Evaluate the LDS scores**
     Run notebooks in evaluation:
 
-    - [CIFAR2/evaulation/lds_gen.ipynb](CIFAR2/evaulation/lds_gen.ipynb)
-    - [CIFAR2/evaulation/lds_val.ipynb](CIFAR2/evaulation/lds_val.ipynb)
+    - [CIFAR2/evaluation/lds_gen.ipynb](CIFAR2/evaluation/lds_gen.ipynb)
+    - [CIFAR2/evaluation/lds_val.ipynb](CIFAR2/evaluation/lds_val.ipynb)
 
 ---
 
