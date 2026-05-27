@@ -1,6 +1,6 @@
 # Nonparametric Data Attribution for Diffusion Models (NDA)
 
-This repository contains the official implementation for the paper **"[Nonparametric Data Attribution for Diffusion Models]"**.
+This repository contains the official implementation for the paper **"[Nonparametric Data Attribution for Diffusion Models]"**, accepted by **ICML 2026**.
 
 \[[arXiv](https://www.arxiv.org/abs/2510.14269)\]
 ---
